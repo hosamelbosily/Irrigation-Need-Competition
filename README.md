@@ -1,4 +1,3 @@
-تمام — ده **README احترافي جاهز للـ GitHub بتاع مشروعك Deep Learning (Irrigation Need Competition)**:
 
 ---
 
